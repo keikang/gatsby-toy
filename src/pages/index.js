@@ -8,8 +8,8 @@ const IndexPage = () => {
       <p>I'm making this by following the Gatsby Tutorial.</p>
       <StaticImage
         alt='곧 결혼하는...'
-        //src='https://dimg.donga.com/wps/NEWS/IMAGE/2022/07/25/114638487.2.jpg'
-        src="../images/261143.jpg"
+        src='https://dimg.donga.com/wps/NEWS/IMAGE/2022/07/25/114638487.2.jpg'
+        //src="../images/261143.jpg"
       />
     </Layout>
   )
