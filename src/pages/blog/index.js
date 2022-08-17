@@ -4,8 +4,8 @@ import Layout from '../../components/layout'
 
 
 const BlogPage = ({ data }) => {
-    console.log('data')
-    console.log(data);
+//console.log('data')
+//console.log(data);
     return (
         <Layout pageTitile="My Blog Posts">
             {
